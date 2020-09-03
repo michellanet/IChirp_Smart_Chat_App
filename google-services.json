@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653831853968",
+    "firebase_url": "https://ichirp-87854.firebaseio.com",
+    "project_id": "ichirp-87854",
+    "storage_bucket": "ichirp-87854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653831853968:android:42dac12ab9baa3e8b98515",
+        "android_client_info": {
+          "package_name": "com.mbwasi.ichirp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653831853968-ig7oq5simr9j3uhk44hvalgvaoe9qg7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVDA3-o9GBUiPjAonEwiNbCMOfOzAeTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653831853968-ig7oq5simr9j3uhk44hvalgvaoe9qg7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
